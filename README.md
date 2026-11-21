@@ -57,29 +57,30 @@ Full-Stack and Software Engineer specializing in scalable distributed architectu
 - Asynchronous RESTful API with psychometric evaluation algorithms recommending personalized academic streams.
 - Comprehensive automated PyTest suite, Docker containerization, and GitHub Actions CI.
 
-#### 3. [Xeno-mini-crm](https://github.com/gopikrishna1536/Xeno-mini-crm)
-> **AI-Native Customer Relationship Management Platform**
-- **Tech Stack:** Next.js, Express.js, Supabase (PostgreSQL), Anthropic Claude API, Twilio, Node.js
-- Dynamic audience segmentation rules engine, AI-generated marketing copy, and pub/sub message delivery stubs.
-- Multi-service Docker Compose architecture and automated customer filtering unit test suite.
+#### 3. [signalWatch-smart-market](https://github.com/gopikrishna1536/signalWatch-smart-market)
+> **Quantitative Financial Indicators Engine & Market Signal API**
+- **Tech Stack:** Python 3.11+, FastAPI, Docker, Pydantic, Algorithmic Backtesting
+- Mathematical implementations of SMA, EMA, RSI (Wilder's smoothing), Bollinger Bands, MACD, VWAP, ATR, and SuperTrend.
+- Quantitative strategy backtesting engine computing equity curves, max drawdown, win rate, and profit factor.
+- Automated Python test suite running via unittest/pytest and GitHub Actions CI.
 
-#### 4. [Cloud-Based-Inventory-Management](https://github.com/gopikrishna1536/Cloud-Based-Inventory-Management)
-> **StockCloud — Multi-Tenant SaaS Inventory & Warehouse Management**
-- **Tech Stack:** React, Vite, Express.js, MongoDB / Mongoose, Tailwind CSS
-- Multi-tenant tenant isolation, real-time barcode generation/scanning, purchase order workflows, and stock audits.
-- Automated business logic unit tests covering stock movement and tenant isolation.
+#### 4. [Xeno-mini-crm](https://github.com/gopikrishna1536/Xeno-mini-crm)
+> **AI-Native Customer Relationship Management Platform**
+- **Tech Stack:** Next.js, Express.js, Supabase (PostgreSQL), Anthropic Claude API, Node.js
+- Dynamic audience segmentation rules engine, rate-limited campaign message dispatcher with retry queue, and RFC-4180 CSV export.
+- Multi-service Docker Compose architecture and automated unit test suite.
 
 #### 5. [Online-Auction-System](https://github.com/gopikrishna1536/Online-Auction-System)
 > **Concurrent Desktop Auction Management System**
 - **Tech Stack:** Java 17+, Apache Maven, JUnit 5, Concurrency, Modern Swing GUI
-- Multi-threaded countdown timer scheduling, thread-safe bid validation, and decoupled service architecture.
+- Multi-threaded countdown timer scheduling, thread-safe bid validation, and decoupled Repository Pattern architecture.
 - Full Maven build lifecycle with automated JUnit 5 test suite and GitHub Actions CI.
 
-#### 6. [cricket-card-pack-opener](https://github.com/gopikrishna1536/cricket-card-pack-opener)
-> **Interactive Sports Card Pack Opening Simulation Game**
-- **Tech Stack:** React 18, TypeScript, Vite, Tailwind CSS, Vitest
-- Mathematical probability RNG pack drops across Bronze, Silver, and Gold tiers with animated flip reveals.
-- Automated Vitest test suite and continuous integration pipeline.
+#### 6. [pbl2-cloud-native-app](https://github.com/gopikrishna1536/pbl2-cloud-native-app)
+> **Resilient Cloud-Native Microservice & Observability Engine**
+- **Tech Stack:** Node.js, Express, Docker, Kubernetes (K8s), Prometheus Metrics
+- Kubernetes liveness/readiness probes (`/healthz`, `/readyz`), W3C distributed tracing context, and Prometheus metrics.
+- Complete Kubernetes deployment manifests (Deployment, Service, ConfigMap, HorizontalPodAutoscaler, Ingress with TLS).
 
 ---
 
